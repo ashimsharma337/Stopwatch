@@ -1,0 +1,13 @@
+body{
+    background-color: green;
+}
+
+#clockDisplay{
+    font-size: 80px;
+    margin-left: 500px;
+    
+
+}
+.button{
+    margin-left: 600px;
+    }
